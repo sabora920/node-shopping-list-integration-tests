@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: wu79NfeMEV/M2xvuCwLH/mniPwLRhVbUfRF5kNeHy8VTcU2v1m5fIu7nJeFIX4uuD44sHu++4DBY4YacqEeRSMkyAJMG9jnymyYISWevTH99cOUW6aKJ2lgj4fz+DTgdxQrJnc7SUqVWYpFSFF3I5qZXA9UYOaIyEqQLdYbPDXBas9yOlgnbPjjDg4Hr8++5sFLeYlKJ9a+dE4faXlP9YDm0n5dS9vLqhGJBzJit9MBXLkwN7/yIy7+k6vV49PBF8LzbStIsOkVIgLP9QCgyltwpDwIZA4YdfzXXDfTnDzOw2ClzvjI2PH8WLNHZXk7pooGi/rptMYviJToYCGOs/hLSk3rcvcLmH03OBAYIvXMIVO5wRp9JS9Y9DoURBCNgoJpg/tf67CP0f21qS6tw767YttTTILIRz2CnegWQpa1qPb20IA8/fNAD9u3m+lQ0WJ+Y6bs3iAElSdM82PSk834Kf+IuqGyWk2hgSxW0j0c1FzPgLUW1sdd1KoyZ58fhKYbm3O3gU8CRZsg/FgVMA82LCN/twwBfdEtUA+/IE66bsvoZIqIJsMNJqZKOEjEBHqatF+l2O85ehxOWGqKCW4ZhWjxQYqAD2OrcmI6HEGPGQc365DeiRbKptkDsdMKgxjENEx2eT+0UUEiLB5SdP5Q6VSnq1skOBLFnfpnJoMw=
-  app: https://git.heroku.com/guarded-caverns-27080.git
+  app: guarded-caverns-27080
   on:
     repo: sabora920/node-shopping-list-integration-tests
